@@ -1,3 +1,4 @@
+git stash
 <<<<<<< HEAD
 1st time edited in online
 3d time
